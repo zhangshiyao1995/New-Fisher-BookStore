@@ -8,3 +8,13 @@
 /Users/shiyaozhang/Desktop/3610 Lab/Fisher.Bookstore.Api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.Api.AssemblyInfo.cs
 /Users/shiyaozhang/Desktop/3610 Lab/Fisher.Bookstore.Api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.Api.dll
 /Users/shiyaozhang/Desktop/3610 Lab/Fisher.Bookstore.Api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.Api.pdb
+/Users/shiyaozhang/Desktop/3610Lab/Fisher.Bookstore.Api/bin/Debug/netcoreapp2.0/Fisher.Bookstore.Api.deps.json
+/Users/shiyaozhang/Desktop/3610Lab/Fisher.Bookstore.Api/bin/Debug/netcoreapp2.0/Fisher.Bookstore.Api.runtimeconfig.json
+/Users/shiyaozhang/Desktop/3610Lab/Fisher.Bookstore.Api/bin/Debug/netcoreapp2.0/Fisher.Bookstore.Api.runtimeconfig.dev.json
+/Users/shiyaozhang/Desktop/3610Lab/Fisher.Bookstore.Api/bin/Debug/netcoreapp2.0/Fisher.Bookstore.Api.dll
+/Users/shiyaozhang/Desktop/3610Lab/Fisher.Bookstore.Api/bin/Debug/netcoreapp2.0/Fisher.Bookstore.Api.pdb
+/Users/shiyaozhang/Desktop/3610Lab/Fisher.Bookstore.Api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.Api.csproj.CoreCompileInputs.cache
+/Users/shiyaozhang/Desktop/3610Lab/Fisher.Bookstore.Api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.Api.AssemblyInfoInputs.cache
+/Users/shiyaozhang/Desktop/3610Lab/Fisher.Bookstore.Api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.Api.AssemblyInfo.cs
+/Users/shiyaozhang/Desktop/3610Lab/Fisher.Bookstore.Api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.Api.dll
+/Users/shiyaozhang/Desktop/3610Lab/Fisher.Bookstore.Api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.Api.pdb

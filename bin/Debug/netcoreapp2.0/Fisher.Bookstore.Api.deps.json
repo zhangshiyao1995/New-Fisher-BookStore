@@ -24,6 +24,7 @@
       "Fisher.Bookstore.Api/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.All": "2.0.5",
+          "Microsoft.AspNetCore.Cors": "2.0.1",
           "Microsoft.EntityFrameworkCore": "2.0.1",
           "Microsoft.NETCore.App": "2.0.0"
         },

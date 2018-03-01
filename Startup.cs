@@ -27,6 +27,13 @@ namespace Fisher.Bookstore.Api
         {
             services.AddDbContext<BookstoreContext> (opt => opt.UseInMemoryDatabase("Books"));
             services.AddMvc();
+            services.AddCors(options =>
+            {
+                options.AddPolicy("CorsPolicy",
+                    builder => builder.AllowAnyOrigin()
+                    .AllowAnyMethod()
+                    .AllowAnyHeader());
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -36,6 +43,7 @@ namespace Fisher.Bookstore.Api
             {
                 app.UseDeveloperExceptionPage();
             }
+            app.UseCors("CorsPolicy");
 
             app.UseMvc();
         }
