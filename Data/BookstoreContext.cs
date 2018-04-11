@@ -2,7 +2,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Fisher.Bookstore.Api.Models;
 
-namespace Fisher.Bookstore.Api.Models
+namespace Fisher.Bookstore.Api.Data
 
 {
 
@@ -14,6 +14,7 @@ namespace Fisher.Bookstore.Api.Models
            {
 
            }
+           protected override void OnModelCreating(ModelBuilder builder) => base.OnModelCreating(builder);
         public DbSet<Book> Books {get; set;}
         
         public DbSet<Author> Authors {get; set;}
